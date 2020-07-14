@@ -1,6 +1,6 @@
 ### Oh, Hi! 👋 It's Me
 
-Currently full time as Web Developer. Sometimes I create a project to fulfill my curiosity Ex. [erdiawan.com/covid](https://erdiawan.com/covid)
+Currently full time as Web Developer. Sometimes I create a project to fulfill my curiosity Ex. [erdiawan.com/covid](https://erdiawan.com/covid), [tld-finder.erdi.my.id](tld-finder.erdi.my.id)
 
 - Blog: [erdiawan.com/blog](https://erdiawan.com/blog)
 - Twitter: [@aerdiawan_](https://www.twitter.com/aerdiawan_)
