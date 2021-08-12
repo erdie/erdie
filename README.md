@@ -1,7 +1,8 @@
 ### Oh, Hi! 👋 It's Me
 
 Currently full-time as Frontend Developer. I put project and learning progress in here
-Ex. [tld-finder.erdiawan.com](https://tld-finder.erdiawan.com), more is coming
+
+Eg. [tld-finder.erdiawan.com](https://tld-finder.erdiawan.com), more is coming
 
 - Blog: [erdiawan.com/blog](https://erdiawan.com/blog)
 - Twitter: [@aerdiawan_](https://www.twitter.com/aerdiawan_)
